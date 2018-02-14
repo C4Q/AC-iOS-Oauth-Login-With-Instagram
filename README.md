@@ -6,3 +6,5 @@ private static let clientId = "{ENTER CLIENT ID HERE}"
 private static let clientSecret = "{ENTER CLIENT SECRET HERE}"
 private static let redirectURI = "{ENTER REDIRECT URI HERE}"
 ```
+
+[Lesson Link](https://github.com/C4Q/AC-iOS/blob/master/lessons/unit6/Oauth/README.md)  
